@@ -55,8 +55,12 @@ coretax-auto-downloader/
 3. File hasil download akan tersimpan di folder default browser (biasanya `Downloads`).  
 
 ## 🎥 Demo Video
-<video src="./assets/demo1,3T.mp4" controls width="600">Coretax unifikasi 1,3T</video>
-<video src="./assets/demo10T.mp4" controls width="600">Coretax prepaid 10T</video>   
+
+### Coretax Unfikasi 1,3T
+[![Demo Unfikasi](assets/demo-unfikasi.png)](assets/demo1,3T.mp4)
+
+### Coretax Prepaid 10T
+[![Demo Prepaid](assets/demo-prepaid.png)](assets/demo10T.mp4)
 
 ## 📌 Roadmap / Pengembangan
 - [ ] Menambahkan opsi konfigurasi folder download.  
