@@ -11,28 +11,6 @@ Dengan ekstensi ini, proses yang biasanya manual dan memakan waktu dapat dilakuk
 - Ringan, mudah digunakan, tanpa konfigurasi rumit.
 - Dibuat untuk profesional pajak yang ingin menghemat waktu dalam pekerjaan sehari-hari.
 
-## 🗂️ Struktur Project
-```
-coretax-auto-downloader/
-│
-├── assets/                 # Demo video & media tambahan
-│   ├── demo1,3T.mp4
-│   ├── demo10T.mp4
-│
-├── coretax unfikasi 1,3T   # Ekstensi Chrome untuk bukti potong unifikasi
-│   ├── background.js
-│   ├── manifest.json
-│   └── ...
-│
-├── coretax prepaid 10T     # Ekstensi Chrome untuk bukti potong prepaid
-│   ├── background.js
-│   ├── popup.html
-│   ├── manifest.json
-│   └── ...
-│
-└── README.md
-```
-
 ## 💻 Instalasi
 1. Clone repository ini atau download sebagai ZIP.
    ```bash
